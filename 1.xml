@@ -1,0 +1,6 @@
+<CarList outFile="cars">
+    <Car model="Lada" price="120000" probeg="250000"/>
+    <Car model="BMW" price="600000" probeg="800000"/>
+    <Car model="Audi" price="200000" probeg="550000"/>
+
+</CarList>
